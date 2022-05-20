@@ -1,0 +1,53 @@
+.topnav-right {
+    float: center;
+}
+
+.image-Header{
+    width: 100%;
+    height: 400px;
+    
+}
+
+.profile-Image{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+}
+
+section{
+    align-items: center;
+}
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  
+  .image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    
+  }
+  
+  .image2 {
+    position: absolute;
+    
+    top: 25%;
+    left: 25%;
+    right: 25%;
+     
+  }
+
+  .text1 {
+      margin-left: 10%;
+  }
+
